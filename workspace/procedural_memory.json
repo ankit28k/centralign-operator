@@ -1,0 +1,5 @@
+{
+  "organization_learnings": [
+    "AcmeCorp Legacy ERP strictly requires Due Dates in ISO format YYYY-MM-DD; always convert DD/MM/YYYY dates from raw invoices before submitting."
+  ]
+}

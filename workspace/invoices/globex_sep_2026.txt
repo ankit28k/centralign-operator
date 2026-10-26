@@ -1,0 +1,16 @@
+==================================================
+GLOBEX CORPORATION - CLOUD SERVICES DIVISION
+INVOICE ID: INV-2026-089
+INVOICE DATE: 2026-09-10
+DUE DATE: 2026-10-10
+==================================================
+Bill To: AcmeCorp Inc.
+Service Description: August Dedicated GPU Cluster Hosting
+
+Subtotal: $2,800.00
+Tax (10%): $280.00
+TOTAL DUE: $3,080.00
+
+Payment Terms: Net 30
+Notes: Standard monthly billing.
+==================================================

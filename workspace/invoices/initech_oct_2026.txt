@@ -1,0 +1,15 @@
+==================================================
+INITECH COMPLIANCE SOLUTIONS
+INVOICE ID: INV-INI-904
+INVOICE DATE: 2026-10-20
+DUE DATE: 20/11/2026
+==================================================
+Bill To: AcmeCorp Inc.
+Service Description: Q4 SOC2 Security Audit & Legal Review
+
+Subtotal: $3,200.00
+Tax (5%): $160.00
+TOTAL DUE: $3,360.00
+
+Payment Terms: Net 30
+==================================================

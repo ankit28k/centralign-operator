@@ -1,0 +1,16 @@
+==================================================
+GLOBEX CORPORATION - CLOUD SERVICES DIVISION
+INVOICE ID: INV-2026-142
+INVOICE DATE: 2026-10-18
+DUE DATE: 15/11/2026
+==================================================
+Bill To: AcmeCorp Inc.
+Service Description: October H100 AI Training Cluster Expansion
+
+Subtotal: $7,500.00
+Tax (10%): $750.00
+TOTAL DUE: $8,250.00
+
+Payment Terms: Net 30
+Notes: Urgent capacity expansion requested by Engineering.
+==================================================
