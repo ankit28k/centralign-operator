@@ -113,15 +113,7 @@ streamlit run app.py
 
 ---
 
-## 7. Known Limitations
-
-- **DOM-Scoped Computer Use:** Browser interaction currently relies on DOM selectors extracted via `get_semantic_dom()` rather than pixel-level Vision/GUI coordinate clicking for native OS desktop apps.
-- **Single-Worker Sequential Execution:** The prototype executes one task loop at a time using local JSON state files rather than a distributed task queue.
-- **File Format Scope:** Sample invoices are structured text documents; multi-page scanned PDFs with complex tables would require an OCR/VLM document parsing stage.
-
----
-
-## 8. What I Would Build Next (Production Roadmap)
+## 7. What I Would Build Next (Production Roadmap)
 
 - **Vision + OS-Level Desktop Grounding:** Combine Playwright DOM trees with multimodal screenshot grounding to operate non-browser desktop applications (e.g., legacy Windows ERPs, Excel macros).
 - **Durable Distributed Execution Engine:** Migrate JSON checkpointing to Temporal or Celery + Redis + Postgres so thousands of long-running agent workflows can pause for days awaiting Slack/Email approvals and resume reliably.
